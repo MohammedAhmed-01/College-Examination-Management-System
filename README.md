@@ -9,6 +9,7 @@ This system aims to automate and simplify the exam process in colleges by provid
 It enhances transparency and accuracy in exam management while ensuring secure access to exams for authorized users.
 
 🔐 System Modules & Features
+
 🛠️ 1. Administrative Module
 
 Admin Login with username and password (changeable)
